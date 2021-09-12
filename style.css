@@ -51,6 +51,7 @@ body {
 
 .img-component {
   background-color: var(--soft-violet);
+  margin-left: 20px;
 }
 
 .text-component {
